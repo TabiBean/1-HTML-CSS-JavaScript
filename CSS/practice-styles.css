@@ -1,0 +1,52 @@
+body {
+
+background-repeat: no-repeat;
+    font-family: Tahoma, Arial, sans-serif;
+}
+img {
+    border: .3em dotted rgb(139, 76, 197)
+    
+}
+
+header {
+    color: rgb(139, 76, 197);
+    font: 32px Garamond, Helvetica, serif;
+    text-align: right;
+}
+section {
+    text-align: justify;
+    border: .3em dotted whitesmoke;
+    border-radius: 30px;
+    padding:1em;
+    margin: 1em;
+    background:rgb(139,76,197);
+    color: #cdf1eb;
+
+}
+
+table {
+    width: 50%;
+}
+
+thead {
+    text-align: left;
+}
+
+label {
+    display: block;
+}
+footer {
+    font-size: 18px;
+    text-align: center;
+    color: rgb(139, 76, 197);
+}
+
+#submit-btn {
+    display: block;
+    color: white;
+    background-color: #cdf1eb;
+}
+h2 {
+    text-align: center;
+}
+ 
